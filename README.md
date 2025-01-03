@@ -1,0 +1,1 @@
+Analyzed U.S. environmental emissions and industrial data using Tableau and Power BI, focusing on climate change impacts. Developed dashboards to visualize trends, cleaned data with Tableau Prep, and highlighted industry-specific and regional variations to guide emission reduction strategies
